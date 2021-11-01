@@ -31,13 +31,13 @@
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/renatolucena5" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-renatolucena-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/renato-lucena-b2393523" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-renatolucena-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/renato.lucena.37" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-renatolucena-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
 </p>
