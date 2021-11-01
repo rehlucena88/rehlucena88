@@ -22,8 +22,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rehlucena88&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatolucena88&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
 <br><br>
@@ -42,7 +42,7 @@
 
 </p>
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=renatolucena5&layout=wide&show_reply=off&show_retweet=off" />
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=renatolucena5&layout=wide&show_reply=off&show_retweet=off" />
 
 <!--
 **rehlucena88/rehlucena88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
