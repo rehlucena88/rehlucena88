@@ -5,7 +5,7 @@
 
 - 🔥 Student start programming 
 
-- 💬 I'M Studying **JavaScript, HTML, CSS,**
+- 💬 I'M Studying **JavaScript, HTML, CSS,React and node**
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
